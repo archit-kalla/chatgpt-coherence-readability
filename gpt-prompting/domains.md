@@ -1,0 +1,39 @@
+### Operating systems
+Describe the differences between the 6502 microprocessor instruction set and the modern x86_64 instruction set.
+Write a newspaper article detailing the advances of computing that have led to the adoption of 16-bit architectures.
+Describe the possible reasons for the BSD project-specific implementation of the getpgrp() system call.
+Describe a novel approach for error checking in C that makes use of kernel-level features.
+Describe a theoretical computer architecture that exists without a consistent clock chip.
+
+### Sports strategy
+create a unique strategy to counter an offensive blitz in football. write at a 4th grade level
+create a unique strategy to counter an offensive blitz in football
+write about a new attack formation in soccer that allows through balls on offense
+write about a offensive strategy to counter hard shots in tennis
+create a new strategy to shut out charging the paint in basketball
+create a novel approach to countering the queens gambit in chess
+
+### Tax form explanation
+Write about a situation where an individual or company wanted to take advantage of Section 199A and Form 3520 when filing their taxes.
+Suppose someone made a significant amount of money through cryptocurrency investments during the fiscal year. Explain in granular detail how these earnings would be properly reported in their taxes.
+Create a scenario where it would be financially impossible to determine whether you should file as head of household or married filing jointly.
+What form would I need to have in order to properly report a gift of one million dollars in cryptocurrency.
+Create a detailed scenario where an individual finds it worthwhile to complete Form 8851 when filing taxes in the United States. 
+
+### Cooking
+Describe the advantages and disadvantages of pre-heating a pan on the stove before cooking with it.
+Describe the process that occurs that causes a cast-iron pan to become seasoned.
+What seasonings go well with turkey?
+Compare the differences in cooking techniques between cooking white meat (like chicken) and red meat (like beef).
+
+### Fermi questions
+What is the average lifetime of a pencil?
+How many hot dogs are bought at all the Major League Baseball games for one season?
+How many hours of tv will you watch in your lifetime?
+Helen and Ivan had the same number of coins. Helen had a number of 50-cent coins, and 64 20-cent coins. These coins had a mass of 1.134kg. Ivan had a number of 50-cent coins and 104 20-cent coins. (a) Who has more money in coins and by how much? (b) given that each 50-cent coin is 2.7g heavier than a 20-cent coin, what is the mass of Ivan’s coins in kilograms?
+
+### Movies
+Rewrite the plot of the movie "The Matrix" so that there is an additional character who ends up becoming the One, only being revealed after Neo dies.
+Write the plot of a movie that combines the plots of "Star Trek: First Contact" and "Once Upon a Time in Hollywood".
+Write an original movie plot that revolves around a family that makes a living selling rubber bands to grocery stores for use in their money handling.
+Write a movie review for the movie "Garfield".
